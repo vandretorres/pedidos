@@ -1,4 +1,4 @@
-package entities.enums;
+package entities;
 
 public class Product {
 	

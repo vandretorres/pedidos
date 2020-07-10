@@ -1,9 +1,8 @@
-package entities.enums;
+package entities;
 
 public class OrderItem {
 	
-	private Product product;
-	
+	private Product product;	
 	private Integer quantity;
 	private Double price;
 	
